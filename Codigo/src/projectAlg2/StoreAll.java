@@ -1,0 +1,42 @@
+package projectAlg2;
+
+public class StoreAll {	
+	public String nameProd[] = new String[5];
+	public double codVal[][] = new double[8][5];
+	public char confirm;
+	public char resp;
+	public double codProd;
+	public double codSales;
+	public double costUn;
+	public double costSales;
+	public double invoicing;
+	public double priceCost;
+	public double priceCostTotal;
+	public double qtEntry;
+	public double qtSales;
+	public double qtStore;
+	public double vlCustVenda;
+	public double vlVenda;
+	public double lucroVenda;
+	public double vlTotCompra;
+	public double vlTotVenda;
+	public double lucroTotCompra;
+	public double vlCustEst;
+	public double vlVendaEst;
+	public double vlLucroEst;
+	public double valSales;
+	public double valSalesTotal;
+	public double value;
+	public double storeViewStore;
+	public int op;
+	public int findProd;
+	public int found;
+	public int typeMov;
+	public int i;
+	public int index;
+	public int indexCalcValue;
+	public int indexNul;
+	public int indSearch;
+	public String nameReg;
+	public String str;
+}
